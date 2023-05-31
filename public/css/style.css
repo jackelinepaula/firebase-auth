@@ -1,0 +1,33 @@
+.card{
+    margin-top: 3rem;
+}
+.card .card-body{
+    width: 20rem;
+    height: 15rem;
+}
+
+.card .card-body button{
+    width: 18rem;
+    border: 1px solid #c4c4c4;
+}
+
+.card .card-body button:hover{
+    background-color: #b8d9f563;
+}
+
+.card .card-body button img{
+    width: 30px;
+}
+
+.card .card-body .auth img{
+    width: 40px;
+}
+
+.card .card-body .auth .title{
+    font-weight: 500;
+}
+
+.card .card-body .auth h5{
+    margin-top: 0.5rem;
+    margin-bottom: 0;
+}
