@@ -15,7 +15,6 @@ app.engine(pageExtensao, handlebars({
 }))
 app.set("view engine", pageExtensao)
 
-
 app.get('/', function(req, res){
     res.render('index')
 })
